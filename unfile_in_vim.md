@@ -1,5 +1,6 @@
 ## Problem
-vim ½ÇÇà ÈÄ ÀúÀå½Ã .unÆÄÀÏÀÌ »ý¼ºµÊ. undo ±â´ÉÀ» À§ÇØ ÀÚµ¿À¸·Î »ý¼ºµÇ´Â ÆÄÀÏÀÎµ¥ ÀÚµ¿»ý¼ºÀ» ²ô±â À§ÇØ¼­ ´ÙÀ½°ú °°ÀÌ ÇØÁÖ¸é µÈ´Ù.
+vim ì‹¤í–‰ í›„ ì €ìž¥ì‹œ .uníŒŒì¼ì´ ìƒì„±ë¨. undo ê¸°ëŠ¥ì„ ìœ„í•´ ìžë™ìœ¼ë¡œ ìƒì„±ë˜ëŠ” íŒŒì¼ì¸ë° ìžë™ìƒì„±ì„ ë„ê¸° ìœ„í•´ì„œ ë‹¤ìŒê³¼ ê°™ì´ í•´ì£¼ë©´ ëœë‹¤.
 
-> vim ÆÄÀÏÀÌ¸§ set noundofile
-> vimrc ¿¡¼­ ¼³Á¤À» ÀÔ·ÂÇØÁÖ¸é ´õ ÁÁ´Ù. set noundofile
+> vim íŒŒì¼ì´ë¦„ set noundofile
+
+> vimrc ì—ì„œ ì„¤ì •ì„ ìž…ë ¥í•´ì£¼ë©´ ë” ì¢‹ë‹¤. (set noundofile ì¶”ê°€)

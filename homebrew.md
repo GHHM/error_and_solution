@@ -2,7 +2,7 @@
 
 Homebrew: /usr/local/share/man/man8 is not writable
 
-brew update 에서 나타남.(MacOS 10.13 High Sierra)
+> brew update (MacOS 10.13 High Sierra)
 
 
 ## Solution

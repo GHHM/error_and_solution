@@ -7,9 +7,8 @@ or
 > warning: CRLF will be replaced by LF in ...
 
 ## Reason
-맥/리눅스 개발자와 윈도우 개발자가 git으로 협업할 때 발생하는 문제
-Whiatspace error
-유닉스 시스템은 한 줄 끝이 LF(Line Feed)
+맥/리눅스 개발자와 윈도우 개발자가 git으로 협업할 때 발생하는 문제 (Whiatspace error)\n
+유닉스 시스템은 한 줄 끝이 LF(Line Feed)\n
 윈도우에서는 줄 하나가 CR(Carriage Retur) 과 LF. CRLF 로 이루어짐
 
 ## Solution

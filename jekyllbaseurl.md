@@ -1,12 +1,12 @@
-============
+
 Jekyll
 ============
 
-##Error
+## Error
 Jekyll theme를 하나 받아서 돌렸음. 로컬에서는 잘 동작하는데 호스팅하는 순간 css가 안먹는다..
  config.yml 에서 base-url을 잘못 설정해서 그렇다.
 
-##Solution
+## Solution
 ### baseurl
 root 주소를 넣어준다. git 에서 clone 했다면 프로젝트 명.
 > baseurl:         "GHHM.githu.io"

@@ -27,4 +27,5 @@ or
 에러메시지를 끄고 작업하고싶을 경우
 >git config --global core.safecrlf false
 
+[더 자세한 설명][https://www.lesstif.com/pages/viewpage.action?pageId=20776404]
 
